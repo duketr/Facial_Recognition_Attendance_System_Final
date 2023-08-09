@@ -11,4 +11,5 @@
 - Modify path of model and database in './config/main.cfg'
 - Change model in 'model' folder
 - Add more image of employees to './face_db_local'
+- Add the shape_predictor_68_landmarks.dat to './utils'. File available at https://github.com/italojs/facial-landmarks-recognition.
 - To Run app, command: python './app/test_non_cam.py'
